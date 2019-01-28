@@ -1,0 +1,14 @@
+tmp/*
+.idea
+.DS_Store
+venv/*
+**/__pycache__/*
+*.p
+*.q
+*.sm
+*.clean
+*.ind
+vocab
+idf
+model
+.ipynb_checkpoints/
